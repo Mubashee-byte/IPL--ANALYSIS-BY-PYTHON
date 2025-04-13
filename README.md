@@ -1,4 +1,4 @@
-# ◻️ IPL--ANALYSIS-BY-PYTHON
+# ◻️ IPL-ANALYSIS-BY-PYTHON
 
 # ◻️ 🏏 IPL Data Analysis Project
 # ◻️  Objective:
